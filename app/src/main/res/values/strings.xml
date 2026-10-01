@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMortyMVC</string>
+    <string name="error_generic">No se pudieron cargar los personajes</string>
+    <string name="character_image">Character image</string>
+</resources>
